@@ -1,0 +1,2 @@
+Anthropic_key="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"
+BUSINESS_NAME = "Glow Spa Berkeley"
